@@ -512,6 +512,7 @@ text-align: left;
 
  .about h2{
   text-align: center;
+  align-item: justify;
   margin: 2rem 0;
  }
 
